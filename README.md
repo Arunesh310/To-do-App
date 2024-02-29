@@ -6,7 +6,7 @@ A basic To-Do List web application built using HTML, CSS, and JavaScript.
 
 ## Demo
 
-todoapp555.netlify.app/
+https://todoapp555.netlify.app/
 
 ## Features
 
